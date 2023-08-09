@@ -27,7 +27,7 @@ To use the non-parametric tests provided in this library, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/non-parametric-tests.git
+   gh repo clone devansh-m12/Non-Parametric-Test
    ```
 
 2. Navigate to the repository directory:
